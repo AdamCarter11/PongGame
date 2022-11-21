@@ -1,0 +1,22 @@
+﻿  Game.cpp
+C:\Users\Adam\Documents\VisualStudioProjects\InClassCollisionPractice\Game.cpp(88,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Adam\Documents\VisualStudioProjects\InClassCollisionPractice\Game.cpp(88,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Adam\Documents\VisualStudioProjects\InClassCollisionPractice\Game.cpp(93,78): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Adam\Documents\VisualStudioProjects\InClassCollisionPractice\Game.cpp(93,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  InClassCollisionPractice.vcxproj -> C:\Users\Adam\Documents\VisualStudioProjects\InClassCollisionPractice\Debug\InClassCollisionPractice.exe
